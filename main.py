@@ -93,7 +93,7 @@ def game_checking(bot, player, winner):  # проверям есть побед�
         winner = "draw"
     return winner
 
-
+#rfrfrfrf
 def x_game_0():  # игра
     print(text["choose_side"])
     player = input().upper()
